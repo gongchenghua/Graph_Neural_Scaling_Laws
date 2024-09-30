@@ -5,4 +5,4 @@
 
 This repository contains a list of the relevant resources on neural scaling laws for GNNs. 
 
-- [NLP] **Beyond neural scaling laws: beating power law scaling via data pruning** [[Paper](https://arxiv.org/abs/2206.14486)]
+- [NLP,NIPS 2022] **Beyond neural scaling laws: beating power law scaling via data pruning** [[Paper](https://arxiv.org/abs/2206.14486)]
